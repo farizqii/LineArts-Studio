@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@theme {
+    --color-brand-1: #5465FF;
+    --color-brand-2: #788BFF;
+    --color-brand-3: #9BB1FF;
+    --color-brand-4: #BFD7FF;
+    --color-brand-5: #E2FDFF;
+
+    --font-sans: 'Montserrat', sans-serif;
+}
